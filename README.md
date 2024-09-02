@@ -38,3 +38,12 @@ Copiar código
 
 Observações
 O projeto foi desenvolvido para fins educacionais e demonstra o uso básico de classes, arrays e interação com o usuário em Java.
+
+
+
+
+IMAGEM: 
+
+
+![tela](https://github.com/user-attachments/assets/47b9ba5f-9abe-46a3-b9e4-0dce152c6c61)
+
